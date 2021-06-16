@@ -8,3 +8,9 @@ build/
 bin/
 lib/
 .github/**
+thirdparty/pugixml
+.vscode/settings.json
+.DS_Store
+thirdparty/P0267_RefImpl/
+thirdparty/pugixml
+thirdparty/pugixml
